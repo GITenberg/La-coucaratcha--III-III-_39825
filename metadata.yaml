@@ -1,0 +1,31 @@
+_repo: La-coucaratcha--III-III-_39825
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39825-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Marie Joseph
+    - Sue, Eugene
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2012-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39825'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction'
+title: La coucaratcha (III/III)
+url: http://www.gutenberg.org/ebooks/39825
